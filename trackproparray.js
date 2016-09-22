@@ -1,4 +1,4 @@
-{
+trackproparray = {
   "type": "Feature",
   "properties": {
     "altitude": [

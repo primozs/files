@@ -1,4 +1,4 @@
-{
+track = {
   "type": "Feature",
   "geometry": {
     "type": "LineString",
