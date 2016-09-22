@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": 481,
+        "time": 1434041404000
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6088,
+            46.25906666666667
+          ],
+          [
+            13.6088,
+            46.25906666666667
+          ]
+        ]
+      }
+    }
+  ]
+}
